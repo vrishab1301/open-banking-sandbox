@@ -1,0 +1,25 @@
+# Mac system files
+.DS_Store
+
+# IntelliJ / VS Code settings
+.idea/
+.vscode/
+*.iml
+
+# Java build output
+build/
+target/
+.gradle/
+
+# Python
+__pycache__/
+.venv/
+*.pyc
+
+# JavaScript / React
+node_modules/
+dist/
+
+# Secrets - never commit these
+.env
+*.env
